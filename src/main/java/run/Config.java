@@ -40,7 +40,6 @@ public class Config {
 		ignoreList.add("js");
 		ignoreList.add("html");
 		ignoreList.add("ttf");
-		ignoreList.add("mp3");
 		return ignoreList;
 	}
 }
